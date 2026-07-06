@@ -150,7 +150,7 @@
           "description": "Mobile badge label horizontal padding - 4xs - 6px"
         },
         "padding-y": {
-          "value": "padding.y.0[375]",
+          "value": "{padding.y.0[375]}",
           "type": "dimension",
           "description": "Mobile badge label vertical padding - 0[375] - 1.5px"
         }
@@ -175,10 +175,10 @@
     },
     "icon": {
       "md": {
-        "padding": {
+        "padding-x": {
           "value": "{padding.4xs}",
           "type": "dimension",
-          "description": "Mobile badge icon horizontal padding - 4xs - 6px"
+          "description": "Mobile badge icon horizontal padding - 4xs - 4px"
         },
         "size": {
           "value": "{size.4xs}",
@@ -192,7 +192,7 @@
         }
       },
       "sm": {
-        "padding": {
+        "padding-x": {
           "value": "{padding.3xs}",
           "type": "dimension",
           "description": "Mobile badge icon horizontal padding - 3xs - 6px"

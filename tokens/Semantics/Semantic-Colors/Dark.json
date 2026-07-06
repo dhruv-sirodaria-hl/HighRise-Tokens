@@ -239,6 +239,13 @@
           "type": "color",
           "description": "Color (dark theme background warning): #f79009"
         },
+        "moderate": {
+          "0": {
+            "value": "{color.secondary.warning.300}",
+            "type": "color",
+            "description": "Color (dark theme background warning): #fec84b"
+          }
+        },
         "subtle": {
           "0": {
             "value": "{color.secondary.warning.800}",
