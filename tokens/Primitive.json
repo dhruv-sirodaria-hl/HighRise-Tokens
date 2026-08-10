@@ -1964,6 +1964,73 @@
           "type": "color",
           "description": "Secondary success color: #02331f"
         }
+      },
+      "lc-green": {
+        "25": {
+          "value": "#F6FEFD",
+          "type": "color",
+          "description": "Lead Connector (LC) green color: #F6FEFD"
+        },
+        "50": {
+          "value": "#E8FCF9",
+          "type": "color",
+          "description": "Lead Connector (LC) green color: #E8FCF9"
+        },
+        "100": {
+          "value": "#CFFDF7",
+          "type": "color",
+          "description": "Secondary success color: #d1fadf"
+        },
+        "200": {
+          "value": "#9CEDE2",
+          "type": "color",
+          "description": "Lead Connector (LC) green color: #9CEDE2"
+        },
+        "300": {
+          "value": "#69D2C4",
+          "type": "color",
+          "description": "Lead Connector (LC) green color: #69D2C4"
+        },
+        "400": {
+          "value": "#4DAA9E",
+          "type": "color",
+          "description": "Lead Connector (LC) green color: #4DAA9E"
+        },
+        "500": {
+          "value": "#338B7E",
+          "type": "color",
+          "description": "Lead Connector (LC) green color: #338B7E"
+        },
+        "600": {
+          "value": "#006B5D",
+          "type": "color",
+          "description": "Lead Connector (LC) green color: #006B5D"
+        },
+        "700": {
+          "value": "#035C50",
+          "type": "color",
+          "description": "Lead Connector (LC) green color: #035C50"
+        },
+        "800": {
+          "value": "#024D43",
+          "type": "color",
+          "description": "Lead Connector (LC) green color: #024D43"
+        },
+        "900": {
+          "value": "#084C2E",
+          "type": "color",
+          "description": "Lead Connector (LC) green color: #084C2E"
+        },
+        "950": {
+          "value": "#023831",
+          "type": "color",
+          "description": "Lead Connector (LC) green color: #023831"
+        },
+        "975": {
+          "value": "#012621",
+          "type": "color",
+          "description": "Lead Connector (LC) green color: #012621"
+        }
       }
     }
   },
