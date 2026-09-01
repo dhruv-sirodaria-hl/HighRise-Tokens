@@ -1194,19 +1194,19 @@
           },
           "text": {
             "default": {
-              "value": "{color.text.warning.body.1}",
+              "value": "{color.text.neutral.base}",
               "type": "color",
-              "description": "Mobile warning tag filled default text - orange/700 - #b54708"
+              "description": "Mobile warning tag filled default text - gray/0 - #ffffff"
             },
             "active": {
-              "value": "{color.text.warning.title.1}",
+              "value": "{color.text.neutral.base}",
               "type": "color",
-              "description": "Mobile warning tag filled active text - orange/900 - #7a2e0e"
+              "description": "Mobile warning tag filled active text - gray/0 - #ffffff"
             },
             "focused": {
-              "value": "{color.text.warning.title.2}",
+              "value": "{color.text.neutral.base}",
               "type": "color",
-              "description": "Mobile warning tag filled focused text - orange/800 - #93370d"
+              "description": "Mobile warning tag filled focused text - gray/0 - #ffffff"
             }
           },
           "icon": {
