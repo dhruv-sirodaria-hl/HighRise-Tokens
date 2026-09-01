@@ -523,7 +523,7 @@
           },
           "icon": {
             "default": {
-              "value": "{color.icon.neutral.base}",
+              "value": "{color.icon.neutral.on-color}",
               "type": "color",
               "description": "Mobile error primary button default icon color"
             },
@@ -533,7 +533,7 @@
               "description": "Mobile error primary button active icon color"
             },
             "focused": {
-              "value": "{color.icon.neutral.base}",
+              "value": "{color.icon.neutral.on-color}",
               "type": "color",
               "description": "Mobile error primary button focused icon color"
             },
